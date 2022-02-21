@@ -1,0 +1,6 @@
+{
+	"editor.formatOnSave": true,
+	"files.autoSave": "afterDelay",
+	"editor.renderWhitespace": "none",
+    "editor.wordWrap": "on"
+}
